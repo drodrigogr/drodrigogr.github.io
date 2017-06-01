@@ -1,0 +1,246 @@
+html,body{
+	height:100%;
+	margin:0;
+}
+#menu
+{
+	width: 100%;
+	background-color: white;
+	height: 15%;
+	position: fixed;
+	display: flex;
+	justify-content:space-between; 
+	align-items:center;
+	
+	
+	
+}
+
+#menu #menu1
+{
+	width: 50%;
+	background-color:;
+	height: 30%;
+	margin-right:5%;
+	
+
+	
+}
+
+#menu #nombre
+
+{
+	width: 20%;
+	background-color:;
+	height: 50%;
+	background-image: url("nombre_04.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	margin-left:6%;
+	
+
+}
+
+#cuerpo
+
+{
+	width: 100%;
+	background-color: #F5F5F5;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:90%;
+	display:flex;
+
+}
+
+#cuerpo1
+
+{
+	width: 20%;
+	background-color: red;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:60%;
+}
+
+#cuerpo2
+
+{
+	width: 20%;
+	background-color: green;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:60%;
+}
+
+#pie
+
+{
+	width: 100%;
+	height:5%;
+}
+
+#pie p
+
+{
+	margin-top: 3%;
+	font-family: sans-serif;
+	font-size: 80%;
+}
+
+
+
+#aboutus
+{
+	width: 100%;
+	background-color:;
+	height: 60%;
+	position:absolute;
+	margin-top:42%;
+	background-image: url("YC-0034.jpg");
+	z-index:-1; 
+
+}
+
+#aboutus01
+{
+	width: 50%;
+	background-image:url("imagenabout01.jpg");
+	height: 40%;
+	position:absolute;
+	margin-top:77%;
+	background-size:100% 100%;
+	z-index:-1; 
+	
+}
+
+#aboutus02
+{
+	width: 50%;
+	background-color:;
+	height: 40%;
+	position:absolute;
+	margin-top:77%;
+	margin-left:50%;
+	z-index:-1; 
+
+}
+
+#aboutus03
+{
+	width: 40%;
+	background-color:;
+	height: 30%;
+	position:absolute;
+	margin-top:7%;
+	margin-left:30%;
+	z-index:-1; 
+
+}
+
+#contactus
+{
+	width: 100%;
+	background-color:;
+	height: 40%;
+	position:absolute;
+	margin-top:5%;
+	z-index:-1; 
+	margin-left:5%;
+
+
+
+}
+
+#contactus01
+{
+	width: 100%;
+	background-image: url("YC-0034.jpg");	
+	height: 35%;
+	position:absolute;
+	margin-top:100%;
+	z-index:-1; 
+
+}
+
+
+
+#listamenu #homeli
+
+{
+	border-right: solid black 1px;
+	width:20%;
+	display: inline-block;
+
+}
+
+#listamenu #profli
+
+{
+	border-right: solid black 1px;
+	width:30%;
+	display: inline-block;
+
+}
+
+#listamenu #portli
+
+{
+	border: solid black px;
+	width:23%;
+	display: inline-block;
+
+}
+
+#listamenu #contli
+
+{
+	border-left: solid black 1px;
+	width:23%;
+	display: inline-block;
+
+}
+
+#listamenu a 
+{
+
+	font-weight:;
+	font-family:"Arial", serif;
+	color:black;
+	text-decoration:none;
+	
+
+}
+
+#listamenu a:hover {
+	color: #B1B1B1;
+}
+
+
+
+	
+ul
+
+{
+
+	margin-right:4%;
+		
+}	
+
+
+#contactus02
+{
+	width: 100%;
+	background-color:black;	
+	height: 45%;
+	position:absolute;
+	margin-top:125%;
+	z-index:-1; 
+	background-color:rgba(0,0,0,0.5);
+
+}
+
+
