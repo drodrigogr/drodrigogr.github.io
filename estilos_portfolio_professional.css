@@ -45,13 +45,37 @@ html,body{
 
 {
 	width: 100%;
-	background-image: url("body_01.jpg");
-	background-color:;
+	background-color: #FFEBCD;
 	background-attachment: ;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	height:90%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+
+
 }
+
+#cuerpo1
+
+{
+	width: 50%;
+	background-color:;
+	background-attachment: ;
+	background-size: 200%;
+	background-repeat: no-repeat;
+	height:60%;
+	margin-top:10%;
+	
+
+	
+}
+
+
+
 
 #pie
 
@@ -217,5 +241,22 @@ ul
 	margin-top:125%;
 	z-index:-1; 
 	background-color:rgba(0,0,0,0.5);
+	
+}	
 
+
+
+
+#cuerpo1 p
+
+{
+	
+	font-family:"Arial", serif;
+	color:black;
+	text-decoration:none;
+	font-size:100%;
+	margin-left:5%;
+	
+	
+	
 }
