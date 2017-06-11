@@ -1,0 +1,212 @@
+html,body{
+	height:100%;
+	margin:0;
+}
+#menu
+{
+	width: 100%;
+	background-color: white;
+	height: 15%;
+	position: fixed;
+	display: flex;
+	justify-content:space-between; 
+	align-items:center;
+	
+	
+	
+}
+
+#menu #menu1
+{
+	width: 50%;
+	background-color:;
+	height: 30%;
+	margin-right:5%;
+	
+
+	
+}
+
+#menu #nombre
+
+{
+	width: 20%;
+	background-color:;
+	height: 50%;
+	background-image: url("imagenes/nombre_04.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	margin-left:6%;
+	
+
+}
+
+#cuerpo
+
+{
+	width: 100%;
+	background-color: #FFEBCD;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:90%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+
+
+}
+
+#cuerpo1
+
+{
+	width: 25%;
+	background-color:;
+	height:25%;
+	margin-top:10%;
+	background-image:url("imagenes/coraza_web.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+	border: solid black 1px;
+	
+	
+
+	
+}
+
+#cuerpo2
+
+{
+	width: 25%;
+	background-color:;
+	height:25%;
+	margin-top:10%;
+	margin-left:4%;
+	background-image:url("imagenes/trompeta_web.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+	border: solid black 1px;
+	
+
+	
+}
+
+#cuerpo3
+
+{
+	width: 25%;
+	background-color:;
+	height:25%;
+	margin-top:10%;
+	margin-left:4%;
+	background-image:url("imagenes/guitarra_web.jpg");
+	background-size:100%;
+	background-repeat:no-repeat;
+	border: solid black 1px;
+
+	
+}
+
+
+
+
+
+
+#pie
+
+{
+	width: 100%;
+	height:5%;
+}
+
+#pie p
+
+{
+	margin-top: 3%;
+	font-family: sans-serif;
+	font-size: 80%;
+}
+
+
+
+#listamenu #homeli
+
+{
+	border-right: solid black 1px;
+	width:20%;
+	display: inline-block;
+
+}
+
+#listamenu #profli
+
+{
+	border-right: solid black 1px;
+	width:30%;
+	display: inline-block;
+
+}
+
+#listamenu #portli
+
+{
+	border: solid black px;
+	width:23%;
+	display: inline-block;
+
+}
+
+#listamenu #contli
+
+{
+	border-left: solid black 1px;
+	width:23%;
+	display: inline-block;
+
+}
+
+#listamenu a 
+{
+
+	font-weight:;
+	font-family:"Arial", serif;
+	color:black;
+	text-decoration:none;
+	
+
+}
+
+#listamenu a:hover {
+	color: #B1B1B1;
+}
+
+
+
+	
+ul
+
+{
+
+	margin-right:4%;
+		
+}	
+
+
+
+
+
+#cuerpo1 p
+
+{
+	
+	font-family:"Arial", serif;
+	color:black;
+	text-decoration:none;
+	font-size:100%;
+	margin-left:5%;
+	
+	
+	
+}

@@ -1,0 +1,460 @@
+﻿html,body{
+	height:100%;
+	margin:0;
+}
+#menu
+{
+	width: 100%;
+	background-color: white;
+	height: 15%;
+	position: fixed;
+	display: flex;
+	justify-content:space-between; 
+	align-items:center;
+	
+	
+	
+}
+
+#menu #menu1
+{
+	width: 50%;
+	background-color:;
+	height: 30%;
+	margin-right:5%;
+	
+
+	
+}
+
+#menu #nombre
+
+{
+	width: 20%;
+	background-color:;
+	height: 50%;
+	background-image: url("imagenes/nombre_04.png");
+	background-size: contain;
+	background-repeat:no-repeat;
+	margin-left:6%;
+	
+
+}
+
+#cuerpo
+
+{
+	width: 100%;
+	background-color: #FFEBCD;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:90%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+
+
+}
+
+#cuerpo1
+
+{
+	width: 20%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:60%;
+	margin-top:10%;
+
+	
+}
+
+#cuerpo2
+
+{
+	width: 15%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:60%;
+	margin-top:10%;
+	border-right-style: solid;
+	border-width: 1px;
+	
+}
+
+#cuerpo2 #celda1
+
+{
+	width: 100%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:10%;
+	margin-top:10%;
+	
+	
+}
+
+#cuerpo2 #celda2
+
+{
+	width: 100%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:3%;
+	margin-top:10%;
+	
+}
+
+#cuerpo2 #celda3
+
+{
+	width: 100%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:3%;
+	margin-top:5%;
+	
+}
+
+#cuerpo2 #celda4
+
+{
+	width: 100%;
+	background-color:;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:20%;
+	margin-top:5%;
+	display:flex
+	
+	
+	
+}
+
+#cuerpo2 #celda4 #celdalogo1
+
+{
+	width: 15%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:45%;
+	margin-top:5%;
+	margin-left:;
+	background-image: url("imagenes/logo_insta2.png");
+	background-size:90%;
+	
+}
+
+img
+
+{
+	
+	width: 90%;
+	height:80%;
+	opacity:0;
+	
+}
+
+#cuerpo2 #celda4 #celdalogo2
+
+{
+	width: 15%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:45%;
+	margin-top:5%;
+	margin-left:2%;
+	background-image: url("imagenes/logo_face.png");
+	background-size:90%;
+	
+	
+}
+
+#cuerpo2 #celda4 #celdalogo3
+
+{
+	width: 15%;
+	background-color: ;
+	background-attachment: ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height:45%;
+	margin-top:5%;
+	margin-left:2%;
+	background-image: url("imagenes/logo_twitter.png");
+	background-size:90%;
+	
+}
+
+
+
+#cuerpo2 #celda1 p
+
+{
+	
+	font-size:130%;
+	font-family:"Arial", serif;
+	color:black;
+	text-decoration:none;
+	
+}
+
+#pie
+
+{
+	width: 100%;
+	height:5%;
+}
+
+#pie p
+
+{
+	margin-top: 3%;
+	font-family: sans-serif;
+	font-size: 80%;
+}
+
+
+
+#aboutus
+{
+	width: 100%;
+	background-color:;
+	height: 60%;
+	position:absolute;
+	margin-top:42%;
+	background-image: url("imagenes/YC-0034.jpg");
+	z-index:-1; 
+
+}
+
+#aboutus01
+{
+	width: 50%;
+	background-image:url("imagenes/imagenabout01.jpg");
+	height: 40%;
+	position:absolute;
+	margin-top:77%;
+	background-size:100% 100%;
+	z-index:-1; 
+	
+}
+
+#aboutus02
+{
+	width: 50%;
+	background-color:;
+	height: 40%;
+	position:absolute;
+	margin-top:77%;
+	margin-left:50%;
+	z-index:-1; 
+
+}
+
+#aboutus03
+{
+	width: 40%;
+	background-color:;
+	height: 30%;
+	position:absolute;
+	margin-top:7%;
+	margin-left:30%;
+	z-index:-1; 
+
+}
+
+#contactus
+{
+	width: 100%;
+	background-color:;
+	height: 40%;
+	position:absolute;
+	margin-top:5%;
+	z-index:-1; 
+	margin-left:5%;
+
+
+
+}
+
+#contactus01
+{
+	width: 100%;
+	background-image: url("imagenes/YC-0034.jpg");	
+	height: 35%;
+	position:absolute;
+	margin-top:100%;
+	z-index:-1; 
+
+}
+
+
+
+#listamenu #homeli
+
+{
+	border-right: solid black 1px;
+	width:20%;
+	display: inline-block;
+
+}
+
+#listamenu #profli
+
+{
+	border-right: solid black 1px;
+	width:30%;
+	display: inline-block;
+
+}
+
+#listamenu #portli
+
+{
+	border: solid black px;
+	width:23%;
+	display: inline-block;
+
+}
+
+#listamenu #contli
+
+{
+	border-left: solid black 1px;
+	width:23%;
+	display: inline-block;
+
+}
+
+#listamenu a 
+{
+
+	font-weight:;
+	font-family:"Arial", serif;
+	color:black;
+	text-decoration:none;
+	
+
+}
+
+#listamenu a:hover {
+	color: #B1B1B1;
+}
+
+
+
+	
+ul
+
+{
+
+	margin-right:4%;
+		
+}	
+
+
+#contactus02
+{
+	width: 100%;
+	background-color:black;	
+	height: 45%;
+	position:absolute;
+	margin-top:125%;
+	z-index:-1; 
+	background-color:rgba(0,0,0,0.5);
+
+}
+
+form {
+   
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+ 
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+label 
+
+{
+    
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+}
+
+#name 
+
+{
+   
+   margin-top:9%;
+    
+}
+
+input, textarea 
+
+{
+   
+    font: 1em sans-serif;
+    width:50%;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #999;
+}
+
+textarea 
+
+{
+   
+    vertical-align: top;
+    height: 5em;
+    resize: vertical;
+}
+
+.button
+
+ {
+   
+    padding-left: 60%; 
+	
+}
+button 
+
+{
+    
+    margin-left: .5em;
+}
+
+.boton_personalizado
+{
+   
+    padding-right: 90px; 
+	text-decoration:none;
+    padding: 9px;
+    font-weight: 200;
+    font-size: 15px;
+    color: white;
+    background-color: black;
+}
+
